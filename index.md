@@ -1,2 +1,6 @@
-# Test
-test
+---
+title: Home
+layout: home
+---
+
+CedMod Docs
