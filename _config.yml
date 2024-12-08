@@ -2,7 +2,7 @@ logo: "/assets/images/logo.png"
 title: CedMod Documentation
 description: Documentation for Installation and Usage of CedMod
 theme: just-the-docs
-color_scheme: dark
+color_scheme: cedmod
 
 url: https://docs.cedmod.nl
 baseurl: /
