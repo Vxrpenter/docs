@@ -5,3 +5,11 @@ color_scheme: dark
 
 url: https://docs.cedmod.nl
 baseurl: /
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: purple
