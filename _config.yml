@@ -29,3 +29,14 @@ callouts:
   attention:
     title: Attention
     color: yellow
+
+footer_content: "CedMod All Rights Reserved. CedMod is owned by <a href=\"https://github.com/ced777ric\">ced777ric</a> - <a href=\"https://github.com/CedModV2\">Repository</a>"
+
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+gh_edit_link: true
+gh_edit_link_text: "Contribute to this page."
+gh_edit_repository: "https://github.com/CedModV2/docs"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
