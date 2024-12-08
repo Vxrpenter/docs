@@ -1,3 +1,4 @@
+favicon_ico: "https://cedmod.nl/favicon.ico"
 title: CedMod Documentation
 description: Documentation for Installation and Usage of CedMod
 theme: just-the-docs
@@ -5,6 +6,18 @@ color_scheme: dark
 
 url: https://docs.cedmod.nl
 baseurl: /
+
+aux_links:
+  "CedMod on GitHub":
+    - "https://github.com/CedModV2"
+
+nav_external_links:
+  - title: CedMod on GitHub
+    url: https://github.com/CedModV2
+  - title: CedMod Panel
+    url: https://cedmod.nl/
+  - title: Changelog
+    url: https://demo.cedmod.nl/Changelog
 
 callouts:
   warning:
