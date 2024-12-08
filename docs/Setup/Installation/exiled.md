@@ -5,4 +5,6 @@ grand_parent: Setup
 layout: default
 ---
 
-Installation for Exiled
+## Installation for Exiled
+
+For the installation with exiled first download the latest cedmod release.
