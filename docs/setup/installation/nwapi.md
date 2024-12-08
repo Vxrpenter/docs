@@ -6,9 +6,9 @@ layout: default
 ---
 
 # Installation for NWAPI
+{: .no_toc }
 
 NWAPI is the preinstalled plugin api for SCP: Secret Laboratory servers and does not need any extra installation
-{: .no_toc }
 
 ---
 
@@ -16,7 +16,7 @@ NWAPI is the preinstalled plugin api for SCP: Secret Laboratory servers and does
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ## Getting the CedMod release
 
