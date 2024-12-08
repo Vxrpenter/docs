@@ -11,6 +11,8 @@ CedMod is a plugin for SCP: Secret Laboratory.
 Aimed towards assisting in server moderation by providing a web based ban management system, and other moderation tools
 {: .fs-6 .fw-300 }
 
+{: .warning} This documentation is currently not complete and is still WIP
+
 [Get started](#getting-started){: .btn .mr-2 }
 [Visit the website](https://docs.cedmod.nl/docs/Setup/){: .btn .mr-2 }
 [Join our Discord](https://discord.com/invite/p69SGfwxxm){: .btn .mr-2 }
