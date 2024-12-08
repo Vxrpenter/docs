@@ -5,4 +5,4 @@ layout: default
 has_children: true
 ---
 
-Instance
+Installation
