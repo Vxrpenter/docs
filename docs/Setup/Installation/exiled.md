@@ -8,7 +8,7 @@ layout: default
 # Installation for Exiled
 
 {: .warning }
-CedMod does currently not support the Exiled Reboot 9.0.0 beta. Updates will 
+CedMod does currently not support the Exiled Reboot 9.0.0 beta.
 
 [Exiled](https://github.com/ExMod-Team/EXILED){: .btn .btn-purple .mr-2 }
 [Exiled Reboot](https://github.com/Exiled-Team/EXILED){: .btn .btn-purple .mr-2 }
