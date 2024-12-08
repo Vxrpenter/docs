@@ -15,7 +15,7 @@ Aimed towards assisting in server moderation by providing a web based ban manage
 This documentation is currently not complete and is still WIP
 
 [Get started](#getting-started){: .btn .mr-2 }
-[Visit the website](https://docs.cedmod.nl/docs/Setup/){: .btn .mr-2 }
+[Visit the website](https://cedmod.nl){: .btn .mr-2 }
 [Join our Discord](https://discord.com/invite/p69SGfwxxm){: .btn .mr-2 }
 [GitHub](https://github.com/CedModV2/CedMod){: .btn .mr-2 }
 

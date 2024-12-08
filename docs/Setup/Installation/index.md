@@ -5,4 +5,8 @@ layout: default
 has_children: true
 ---
 
-Instance
+# Installation
+{: .fs-9 }
+
+Installation guides to install exiled for NWAPI or Exiled/Exiled Reboot
+{: .fs-6 .fw-300 }

@@ -1,3 +1,4 @@
+favicon_ico: "https://cedmod.nl/favicon.ico"
 title: CedMod Documentation
 description: Documentation for Installation and Usage of CedMod
 theme: just-the-docs
@@ -6,10 +7,36 @@ color_scheme: dark
 url: https://docs.cedmod.nl
 baseurl: /
 
+aux_links:
+  "CedMod on GitHub":
+    - "https://github.com/CedModV2"
+
+nav_external_links:
+  - title: CedMod on GitHub
+    url: https://github.com/CedModV2
+  - title: CedMod Panel
+    url: https://cedmod.nl/
+  - title: Changelog
+    url: https://demo.cedmod.nl/Changelog
+
 callouts:
   warning:
     title: Warning
     color: red
   note:
     title: Note
-    color: purple
+    color: blue
+  attention:
+    title: Attention
+    color: yellow
+
+footer_content: "CedMod All Rights Reserved. CedMod is owned by <a href=\"https://github.com/ced777ric\">ced777ric</a> - <a href=\"https://github.com/CedModV2\">Repository</a>"
+
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+gh_edit_link: true
+gh_edit_link_text: "Contribute to this page."
+gh_edit_repository: "https://github.com/CedModV2/docs"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
