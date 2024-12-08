@@ -14,10 +14,10 @@ Aimed towards assisting in server moderation by providing a web based ban manage
 {: .warning}
 This documentation is currently not complete and is still WIP
 
-[Get started](#getting-started){: .btn .btn-primary .fs-6 .mr-2 }
-[Visit the website](https://cedmod.nl){: .btn .fs-6 .mr-2 }
-[Join our Discord](https://discord.com/invite/p69SGfwxxm){: .btn .fs-6 .mr-2 }
-[GitHub](https://github.com/CedModV2/CedMod){: .btn .fs-6 .mr-2 }
+[Get started](#getting-started){: .btn .btn-primary .fs-5 .mr-2 }
+[Visit the website](https://cedmod.nl){: .btn .fs-5 .mr-2 }
+[Join our Discord](https://discord.com/invite/p69SGfwxxm){: .btn .fs-5 .mr-2 }
+[GitHub](https://github.com/CedModV2/CedMod){: .btn .fs-5 .mr-2 }
 
 ---
 
