@@ -15,7 +15,7 @@ NWAPI is the preinstalled plugins api for SCP: Secret Laboratory servers and doe
 Installation with nwapi requires the [NWAPIPermissionSystem](https://github.com/CedModV2/NWAPIPermissionSystem) to function properly
 
 {: .attention }
-Make sure the CedMod release you are downloading has **NWAPI** and not **EXILED** in its title as only the exiled versions are meant for exiled installation
+Make sure the CedMod release you are downloading has **NWAPI** and not **EXILED** in its title as only the nwapi versions are meant for the nwapi installation
 
 1. Go to the [cedmod releases tab](https://github.com/CedModV2/CedMod/releases) and download your desired version
 2. Drag and drop it into your plugins folder
