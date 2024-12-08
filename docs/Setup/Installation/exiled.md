@@ -17,13 +17,14 @@ CedMod does currently not support Exiled Reboot 9.0.0 beta.
 
 Download the latest compatible release of either **Exiled** or **Exiled Reboot**.
 It is not relevant
-which of them you use but due note that they have to completely different development teams
+which of them you use but due note that they have two completely different development teams
 and are aiming for different goals.
 
-On a guide on how to install Exiled/Exiled Reboot on their official docs. 
+If you want a guide on how to install Exiled/Exiled Reboot, 
+you can find them their official docs. 
 For Exiled go [here](https://github.com/ExMod-Team/EXILED/blob/master/.github/documentation/README.md#installation), 
 for Exiled Reboot look [here](https://github.com/Exiled-Team/EXILED?tab=readme-ov-file#installation).
-The guides are practically identical but could change in the future when development of the two changes more and more.
+The guides are practically identical, but could change in the future when development of the two changes more and more.
 
 ## Getting the CedMod release
 
