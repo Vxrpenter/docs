@@ -12,6 +12,15 @@ CedMod does currently not support the Exiled Reboot 9.0.0 beta.
 
 [Exiled](https://github.com/ExMod-Team/EXILED){: .btn .mr-2 }
 [Exiled Reboot](https://github.com/Exiled-Team/EXILED){: .btn .mr-2 }
+{: .no_toc }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+   {:toc}
 
 ## How to install Exiled
 

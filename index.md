@@ -19,6 +19,8 @@ This documentation is currently not complete and is still WIP
 [Join our Discord](https://discord.com/invite/p69SGfwxxm){: .btn .mr-2 }
 [GitHub](https://github.com/CedModV2/CedMod){: .btn .mr-2 }
 
+---
+
 With CedMod you are able to moderate your server more easily than ever before.
 Use the webpanel for managing bans, mutes, and permissions.
 CedMod is used by over **400** Servers worldwide and stores over **300.000** BanLogs and almost **100.000** Warnings.
