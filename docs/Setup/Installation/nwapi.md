@@ -7,7 +7,7 @@ layout: default
 
 # Installation for NWAPI
 
-NWAPI is the preinstalled plugins api for SCP: Secret Laboratory servers and does not need any extra installation
+NWAPI is the preinstalled plugin api for SCP: Secret Laboratory servers and does not need any extra installation
 
 ## Getting the CedMod release
 

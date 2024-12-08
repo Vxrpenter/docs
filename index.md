@@ -20,7 +20,7 @@ This documentation is currently not complete and is still WIP
 [GitHub](https://github.com/CedModV2/CedMod){: .btn .mr-2 }
 
 With CedMod you are able to moderate your server more easily than ever before.
-Use the webpanel for managing bans, mutes, permissions and your staff permissions.
+Use the webpanel for managing bans, mutes, and permissions.
 CedMod is used by over **400** Servers worldwide and stores over **300.000** BanLogs and almost **100.000** Warnings.
 
 ## Getting Started
@@ -36,7 +36,7 @@ If you want to view a more complete installation guide,
 go to [the instance creation guide](https://docs.cedmod.nl/docs/Setup/Instance/)
 
 ## About CedMod
-CedMod All Rights Reserved by [ced777ric](https://github.com/ced777ric)
+CedMod, All Rights Reserved by [ced777ric](https://github.com/ced777ric)
 
 ### Licence Agreements
 
@@ -50,8 +50,8 @@ You are free to contribute to CedMod development if you'd like.
 Fork the [repository](https://github.com/CedModV2/CedMod),
 commit your changes to the fork and then create a pull request to propose the changes to the maintainers.
 
-{: .warning } 
+{: .attention } 
 When proposing changes, make sure they are well tested and don't break any other features. CedMod is used by many servers and has to be stable for optimal usage. Also make sure to explain exactly what you changed in the pull request.
 
 {: .note } 
-The backend of CedMod is closed source and will remain that way. If you'd like to contribute to the development of the backend, you can apply for a staff position using the [application form](https://docs.google.com/forms/d/1JJKZOXOv6_ew8bExxGvLvaSBzdgCNlYteGnWNOMQPXU/edit). The CedMod team reviews your application and then decides if it is valid or not. You need to answer the questions truthfully for the best chances, lying won't bring you far
+The backend of CedMod is closed source and will remain that way. If you'd like to contribute to the development of the backend, you can apply for a staff position with the [application form](https://docs.google.com/forms/d/1JJKZOXOv6_ew8bExxGvLvaSBzdgCNlYteGnWNOMQPXU/edit). The CedMod team reviews your application and then decides if it is valid or not. You need to answer the questions truthfully for the best chances, lying won't bring you far
