@@ -8,7 +8,7 @@ layout: default
 # Installation for Exiled
 
 {: .warning }
-CedMod does currently not support the Exiled Reboot 9.0.0 beta.
+CedMod does currently not support Exiled Reboot 9.0.0 beta.
 
 [Exiled](https://github.com/ExMod-Team/EXILED){: .btn .mr-2 }
 [Exiled Reboot](https://github.com/Exiled-Team/EXILED){: .btn .mr-2 }
@@ -31,7 +31,7 @@ After installing exiled, you need to download the CedMod release compatible with
 All releases will have a section that marks the compatibility with the exiled and game version.
 
 {: .attention }
-Make sure the CedMod release you are downloading has **EXILED** and not **NWAPI** in its title as only the exiled versions are meant for exiled installation
+Make sure the CedMod release you are downloading has **EXILED** and not **NWAPI** in its title as only the exiled versions are meant for the exiled installation
 
 1. Go to the [cedmod releases tab](https://github.com/CedModV2/CedMod/releases) and download your desired version
 2. Drag and drop it into your plugins folder
