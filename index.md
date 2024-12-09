@@ -31,11 +31,11 @@ To get started with CedMod,
 either install the exiled or nwapi version from the [release tab](https://github.com/CedModV2/CedMod/releases)
 
 {: .note }
-For a more complete and comprehensive installation guide, follow the [setup guide](https://docs.cedmod.nl/docs/Setup/)
+For a more complete and comprehensive installation guide, follow the [setup guide](https://docs.cedmod.nl/docs/setup/)
 
 After installation, you have to create an instance on the [panel](https://cedmod.nl/Servers/Create).
 If you want to view a more complete installation guide,
-go to [the instance creation guide](https://docs.cedmod.nl/docs/Setup/Instance/)
+go to [the instance creation guide](https://docs.cedmod.nl/docs/setup/instance/)
 
 ## About CedMod
 CedMod, All Rights Reserved by [ced777ric](https://github.com/ced777ric)
