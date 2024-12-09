@@ -1,12 +1,12 @@
 ---
 title: Usage
 layout: default
-nav_order: 3
+nav_order: 4
 has_children: true
 ---
 
-# Error Handling
+# Usage
 {: .fs-9 }
 
-Sometimes problems can arise when using cedmod. The following pages explain how to handle known errors and how to report unknown ones
+CedMod has many features that need some explanation on how to use them
 {: .fs-6 .fw-300 }
