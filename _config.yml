@@ -32,6 +32,12 @@ callouts:
   attention:
     title: Attention
     color: yellow
+  deprecated:
+    title: Deprecated
+    color: red
+  new:
+    title: New
+    color: green
 
 footer_content: "CedMod All Rights Reserved. CedMod is owned by <a href=\"https://github.com/ced777ric\">ced777ric</a> - <a href=\"https://github.com/CedModV2\">Repository</a>"
 

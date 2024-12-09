@@ -9,8 +9,6 @@ layout: default
 # Create Instance
 {: .no_toc }
 
----
-
 ## Table of Contents
 {: .no_toc .text-delta }
 
@@ -19,6 +17,8 @@ layout: default
 
 {: .attention}
 You need to create an account before creating a CedMod instance. Following the [account creation guide](), if you haven't already
+
+---
 
 ## Choose Server
 
@@ -54,19 +54,11 @@ depending on your server location:
 Now you need to choose your top domain. 
 Currently, CedMod only supports the `yourinstance.cmod.app` domain.
 
----
-
-Deprecated
-{: .label .label-red }
-
+{: .deprecated }
 If you want to use a custom domain, contact CedMod support.
 
-New
-{: .label .label-green }
-
+{: .new }
 You are now able to go to the custom domains page after creating your instance to use a custom domain
-
----
 
 After defining the top domain, you need to name your instance.
 This name will replace the `yourinstance` part in the top domain and be displayed on the instance's panel page as well.
@@ -81,20 +73,11 @@ You can activate them later after the setup if you change your mind.
 - [x] Disable IP Bans for Ip addresses used for Cloud Gaming
 - [x] Log Panel Actions
 
-### AntiVPN
-The AntiVpn will prevent anyone who is not allowlisted from it from joining your server.
-The AntiVpn can protect against people trying to evade bans using Alt accounts and VPNS.
-Players who get kicked for using Cloud gaming 
-or have to use a vpn for legitimate reasons can request a whitelist using the link in the kick message. 
-
-### Disable IP Bans for Cloud gaming
-When this option is enabled,
-Players that use Cloud gaming will not get kicked when there is an Ip ban on the ip of that cloud gaming server.
-As cloud gaming Ip addresses are shared, commonly players may get kicked if ip bans are enabled for cloud gaming.
-It is recommended to leave this option on for the best player experience. 
-
-### Log Panel Actions
-If enabled, Bans, Mutes and Warns will be logged to the webhooks defined below. 
+| Feature                          | Definition                                                                                                                                                                                                                                                                                                                                |
+|:---------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| AntiVPN                          | The AntiVpn will prevent anyone who is not allowlisted from it from joining your server. The AntiVpn can protect against people trying to evade bans using Alt accounts and VPNS. Players who get kicked for using Cloud gaming or have to use a vpn for legitimate reasons can request a whitelist using the link in the kick message.   |
+| Disable IP Bans for Cloud gaming | When this option is enabled, Players that use Cloud gaming will not get kicked when there is an Ip ban on the ip of that cloud gaming server. As cloud gaming Ip addresses are shared, commonly players may get kicked if ip bans are enabled for cloud gaming. It is recommended to leave this option on for the best player experience. |
+| Log Panel Actions                | If enabled, Bans, Mutes and Warns will be logged to the webhooks defined below.                                                                                                                                                                                                                                                           |
 
 ## Webhook Setup
 
@@ -116,7 +99,7 @@ you can also set all logs to a single channel
 ## Link Instance to Server
 
 {: .attention}
-DO NOT share your activation key with anyone
+DO NOT share your activation key with anyon
 
 After creating the instance, you need to paste a command similar to this into your server console.
 Make sure to replace `<cedmod_activation_key>` with your key
