@@ -53,7 +53,20 @@ depending on your server location:
 
 Now you need to choose your top domain. 
 Currently, CedMod only supports the `yourinstance.cmod.app` domain.
+
+---
+
+Deprecated
+{: .label .label-red }
+
 If you want to use a custom domain, contact CedMod support.
+
+New
+{: .label .label-green }
+
+You are now able to go to the custom domains page after creating your instance to use a custom domain
+
+---
 
 After defining the top domain, you need to name your instance.
 This name will replace the `yourinstance` part in the top domain and be displayed on the instance's panel page as well.
