@@ -16,7 +16,7 @@ layout: default
 {:toc}
 
 {: .attention}
-You need to create an account before creating a CedMod instance. Following the [account creation guide](), if you haven't already
+You need to create an account before creating a CedMod instance. Following the [account creation guide](https://docs.cedmod.nl/docs/account/), if you haven't already
 
 ---
 
